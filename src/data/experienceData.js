@@ -11,7 +11,7 @@ export const experienceData = [
         company: 'Freelance ',
         jobtitle: 'Full-Stack Developer',
         startYear: 'Jan 2022',
-        endYear: 'February 2022'
+        endYear: 'FPresent'
     },
     {
         id: 3,

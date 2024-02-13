@@ -28,7 +28,7 @@ const ContactUI = ({ open, success, errMsg, handleClose, classes, handleContactF
                   Name
                 </label>
                 <input
-                  placeholder='John Doe'
+                  placeholder='Name'
                   value={name}
                   onChange={(e) => setName(e.target.value)}
                   type='text'
@@ -44,7 +44,7 @@ const ContactUI = ({ open, success, errMsg, handleClose, classes, handleContactF
                   Email
                 </label>
                 <input
-                  placeholder='John@doe.com'
+                  placeholder='Email'
                   value={email}
                   onChange={(e) => setEmail(e.target.value)}
                   type='email'

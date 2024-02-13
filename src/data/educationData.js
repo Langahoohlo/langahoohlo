@@ -15,9 +15,17 @@ export const educationData = [
     },
     {
         id: 3,
+        institution: 'Holberton',
+        course: 'Software Engineering',
+        startYear: '2024',
+        endYear: '22024'
+    },
+    {
+        id: 4,
         institution: 'Navalsig High School',
         course: 'High School',
         startYear: '2012',
         endYear: '2016'
     },
+    
 ]
