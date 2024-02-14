@@ -1,5 +1,5 @@
 import profileimage from "../assets/png/myself.JPG";
-// import profileimage from "../assets/png/nobackground.png";
+import resume from "../assets/RESUME.pdf";
 
 export const headerData = {
     name: 'Langa Hoohlo',
@@ -8,6 +8,6 @@ export const headerData = {
     // desciption: "Hello! I am Langa Hoohlo, a professional and passionate programmer in my daily life. A quick learner with a self-learning attitude. I love to learn and explore new technologies and am Passionate about Problem Solving. ",
     image: profileimage,
     imagebw: '',
-    resumePdf: ''
+    resumePdf: resume
     // resumePdf: ''
 }
