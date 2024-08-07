@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Langa Hoohlo</h1>
 <h3 align="center">A passionate frontend developer from Lesotho</h3>
 
-- 🔭 I’m currently working on [Coffee website](iindulge.vercel.app)
+- 🔭 I’m currently working on **Cosmetic e-commerce app for toca bodycare**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **NEXT JS**
 
-- 👯 I’m looking to collaborate on **Python and Flutter Projects**
+- 👯 I’m looking to collaborate on **NEXT JS**
 
-- 🤝 I’m looking for help with **MERN**
+- 🤝 I’m looking for help with **POSTGRESQL**
 
 - 👨‍💻 All of my projects are available at [langahoohlo.vercel.app](langahoohlo.vercel.app)
 
-- 💬 Ask me about **Python and Flutter**
+- 💬 Ask me about **Python, Flutter and React**
 
 - 📫 How to reach me **langahoohlo@live.com**
 
