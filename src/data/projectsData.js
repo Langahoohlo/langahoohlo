@@ -15,11 +15,11 @@ export const projectsData = [
     },
     {
         id: 2,
-        projectName: 'Malutimingle',
-        projectDesc: 'A basotho dating site.',
-        tags: ['Python', 'Django', 'Tailwind CSS', 'PostgreSQL'],
-        code: 'https://github.com/Langahoohlo/suprme-octo.git',
-        demo: 'https://wwww.malutimingle.pythonanywhere.com/',
+        projectName: 'CCtraders',
+        projectDesc: 'A professional company website for a clien.',
+        tags: ['Python', 'Django', 'Tailwind CSS', 'PostgreSQL', 'REACT Js'],
+        code: 'https://github.com/Langahoohlo/',
+        demo: 'https://wwww.cctraders.co.ls',
         image: seven
     },
     {
@@ -33,11 +33,11 @@ export const projectsData = [
     },
     {
         id: 4,
-        projectName: 'CcTraders',
+        projectName: 'Commonwealth Lesotho',
         projectDesc: 'A website for a client about his business with djangobackend.',
         tags: ['Bootstrap', 'Html', 'Django','PotgreSQL'],
         code: 'https://github.com/Langahoohlo/',
-        demo: 'https://www.cctraders.co.ls',
+        demo: 'https://www.cbwa-thelesothochapter.co.ls/',
         image: six
     },
     {
@@ -48,7 +48,16 @@ export const projectsData = [
         code: 'https://github.com/Langahoohlo/coffee-website',
         demo: 'https://iindulge.vercel.app',
         image: seven
-    }    
+    },
+    {
+        id: 5,
+        projectName: 'LIFTY-X',
+        projectDesc: 'A social media site where you can post to meta services and linked wiht on esingle post.',
+        tags: ['Shadcn UI', 'Tailwind', 'Next JS','PotgreSQL', 'Meta API', 'Linkedin oauth'],
+        code: 'https://github.com/Langahoohlo/',
+        demo: 'https://lifty-x.vercel.app/',
+        image: seven
+    }
 ]
 
 

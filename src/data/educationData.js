@@ -9,23 +9,16 @@ export const educationData = [
     {
         id: 2,
         institution: 'Havard CS50',
-        course: 'Computer Science',
+        course: 'Introductions to Computer Science',
         startYear: '2023',
         endYear: '2023'
     },
     {
         id: 3,
         institution: 'Holberton',
-        course: 'Software Engineering',
+        course: 'Computer Science',
         startYear: '2024',
         endYear: '22024'
-    },
-    {
-        id: 4,
-        institution: 'Navalsig High School',
-        course: 'High School',
-        startYear: '2012',
-        endYear: '2016'
     },
     
 ]
