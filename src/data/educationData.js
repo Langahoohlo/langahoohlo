@@ -4,7 +4,7 @@ export const educationData = [
         institution: 'Central University of Technology',
         course: 'Information Technology in Software Development(incomplete)',
         startYear: '2017',
-        endYear: 'Present'
+        endYear: '2019'
     },
     {
         id: 2,
@@ -18,7 +18,7 @@ export const educationData = [
         institution: 'Holberton',
         course: 'Computer Science',
         startYear: '2024',
-        endYear: '22024'
+        endYear: '2024'
     },
     
 ]
